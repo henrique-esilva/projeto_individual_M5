@@ -28,5 +28,5 @@ ajustar seu feedback para que ele não se ofenda?
 e insuficiências de cada uma.
 5. Qual visualização representa melhor os dados e por quê?
 6. Como você pode gerar essas informações em uma história orientada por dados para seu
-7. chefe? O objetivo é pensar além de mostrar simplesmente dados e mostrar o contexto da
+chefe? O objetivo é pensar além de mostrar simplesmente dados e mostrar o contexto da
 história.
