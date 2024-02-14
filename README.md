@@ -11,7 +11,9 @@ suas descobertas
 
 ### Proposta
 
-Você deve carregar os dados para o Tableau e responder às seguintes questões:
+Você deve carregar os dados para o Tableau e criar um ou mais dashboards, identificando as
+razões de saída dos funcionários da empresa e seus impactos, e indicando possíveis soluções
+para esses problemas. Em seguida, responda às seguintes questões:
 
 1. O que está sendo mostrado aqui? Escreva um texto explicando os dados.
 Dica: imagine que você precisa explicar esse gráfico para o seu chefe. Escreva sobre como
@@ -20,11 +22,11 @@ você faria isso em voz alta (fazendo suposições conforme necessário).
 conclusões específicas em palavras. Escreva sentenças completas.
 3. O que não é ideal ou poderia ser evitado na visualização em sua forma atual? Que
 perguntas você faria ou que feedback daria para quem fez o gráfico?
-Exemplo: suponha que seu HRBP gastou muito tempo criando esse gráfico; como você
-pode ajustar seu feedback para que ele não se ofenda?
-4. Crie três maneiras diferentes de mostrar esses dados e liste quais são algumas
-vantagens e insuficiências de cada uma.
+Exemplo: suponha que seu HRBP gastou muito tempo criando esse gráfico; como você pode
+ajustar seu feedback para que ele não se ofenda?
+4. Crie três maneiras diferentes de mostrar esses dados e liste quais são algumas vantagens
+e insuficiências de cada uma.
 5. Qual visualização representa melhor os dados e por quê?
-6. Como você pode gerar essas informações em uma história orientada por dados
-para seu chefe? O objetivo é pensar além de mostrar simplesmente dados e mostrar
-o contexto da história.
+6. Como você pode gerar essas informações em uma história orientada por dados para seu
+7. chefe? O objetivo é pensar além de mostrar simplesmente dados e mostrar o contexto da
+história.
