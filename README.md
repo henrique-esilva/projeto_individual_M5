@@ -5,7 +5,7 @@ Conforme requisitado na proposta do Projeto individual do módulo 5 do curso de 
 **Resilia Educação**
 foi feito este repositório, que serve como principal objeto de entrega deste projeto.
 
-previsão de entrega - 06 Março 2024
+previsão de entrega - 06 Março 2024  
 autor: Pedro Henrique Silva
 
 # Agradecimentos
