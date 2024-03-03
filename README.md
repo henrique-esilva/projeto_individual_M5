@@ -8,8 +8,6 @@ foi feito este repositório, que serve como principal objeto de entrega deste pr
 previsão de entrega - 06 Março 2024  
 autor: Pedro Henrique Silva
 
-[dataset_situacao.xlsx](/dataset_situacao.xlsx)
-
 # Agradecimentos
 Gostaria de engrandecer o
 **Programa Senac de Gratuidade**, bem como a
