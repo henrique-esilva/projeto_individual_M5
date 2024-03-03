@@ -16,7 +16,7 @@ Agradeço também a todos os envolvidos na existência e mantenimento do Senac, 
 Faculdade Senac e Senac Botafogo, no RJ
 
 # Dependências
-
+O acesso às pastas de trabalho do Tableau usadas neste projeto necessita de uma conta do Tableau Public
 
 # Razão
 O motivo da proposição deste projeto é atestar a competência no uso das ferramentas estudadas no curso e das técnicas de análise e geração de gráficos, tratamento de dados e interpretação de dados.
