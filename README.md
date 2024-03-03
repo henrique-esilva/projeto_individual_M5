@@ -18,5 +18,5 @@ Faculdade Senac e Senac Botafogo, no RJ
 # Dependências
 
 
-# Proposta
-Para a execução do trabalho, 
+# Razão
+O motivo da proposição deste projeto é atestar a competência no uso das ferramentas estudadas no curso e das técnicas de análise e geração de gráficos, tratamento de dados e interpretação de dados.
