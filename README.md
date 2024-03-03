@@ -16,7 +16,13 @@ Agradeço também a todos os envolvidos na existência e mantenimento do Senac, 
 Faculdade Senac e Senac Botafogo, no RJ
 
 # Dependências
-O acesso às pastas de trabalho do Tableau usadas neste projeto necessita de uma conta do Tableau Public
+O acesso às pastas de trabalho do Tableau usadas e entregues neste projeto necessita de uma conta do Tableau Public
 
 # Razão
 O motivo da proposição deste projeto é atestar a competência no uso das ferramentas estudadas no curso e das técnicas de análise e geração de gráficos, tratamento de dados e interpretação de dados.
+
+# Proposta
+Apresentou-se uma situação hipotética onde uma empresa possui dados acerca da evasão recente de funcionários.
+
+Após, foram fornecidas duas visualizações gráficas e um conjunto de dados, com os mesmos dados exibidos nas visualizações. Foi demandada a criação de pelo menos dois *dashboards* no Tableau, explicando os dados da maneira como estavam sendo mostrados nos gráficos. Estes *dashboards* devem conter explanações sobre os motivos de saída dos funcionários e seus impactos, além de sugestões para o problema.
+
