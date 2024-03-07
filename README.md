@@ -26,7 +26,7 @@ Apresentou-se uma situação hipotética onde uma empresa possui dados acerca da
 Após, foram fornecidas duas visualizações gráficas e um conjunto de dados, com os mesmos dados exibidos nas visualizações. Foi demandada a criação de pelo menos dois *dashboards* no Tableau, explicando os dados da maneira como estavam sendo mostrados nos gráficos. Estes *dashboards* devem conter explanações sobre os motivos de saída dos funcionários e seus impactos, além de sugestões para o problema.
 
 # Entrega
-
+Veja o projeto no [Tableau Public](https://public.tableau.com/app/profile/pedro.ferreira3705/viz/view_sugerida3/Histria1)!
 
 # Dependências
 O acesso à pasta de trabalho do Tableau usada e entregue por este projeto necessita de uma conta do Tableau Public.
