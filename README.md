@@ -5,7 +5,7 @@ Conforme requisitado na proposta do Projeto individual do módulo 5 do curso de 
 **Resilia Educação**
 foi feito este repositório, que serve como principal objeto de entrega deste projeto.
 
-[Ir direto ao material entregue](https://github.com/henrique-esilva/projeto_individual_M5/edit/main/README.md#entrega)
+[Ir direto ao material entregue](#entrega)
 
 previsão de entrega - 06 Março 2024  
 autor: Pedro Henrique Silva
